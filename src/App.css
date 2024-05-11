@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'get-schwifty';
+    src: local('get-schwifty'),
+        url('./assets/fonts/get-schwifty.woff') format('woff'),
+        url('./assets/fonts/get-schwifty.woff2') format('woff2'),
+        url('./assets/fonts/get-schwifty.eot') format('eot'),
+        url('./assets/fonts/get-schwifty.otf') format('otf'),
+        url('./assets/fonts/get-schwifty.ttf') format('truetype');
+}
+
+.app-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

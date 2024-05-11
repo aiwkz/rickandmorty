@@ -1,0 +1,30 @@
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    height: 70vh;
+    background-image: url('../../assets/img/hero.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-title {
+    font-family: 'get-schwifty', sans-serif;
+    font-size: 7rem;
+    color: #02b0ca;
+    -webkit-text-stroke: 0.2rem #c8dd5c;
+    text-shadow: 0.4rem 0.4rem 0 #000;
+}
+
+@media only screen and (max-width: 768px) {
+    .hero {
+        align-items: flex-start;
+    }
+
+    .hero-title {
+        font-size: 3rem;
+        -webkit-text-stroke: 0.1rem #c8dd5c;
+    }
+}
