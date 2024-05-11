@@ -12,8 +12,8 @@ This is a frontend application built with Vite and React, utilizing the Rick and
 
 ### 1. Clone the repository:
 
-HTTPS: git clone https://github.com/aiwkz/rickandmorty.git
-SSH: git clone git@github.com:aiwkz/rickandmorty.git
+-   HTTPS: git clone https://github.com/aiwkz/rickandmorty.git
+-   SSH: git clone git@github.com:aiwkz/rickandmorty.git
 
 ### 2. Navigate to the project directory:
 
